@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: continuations.pdf
 uid: 01677019-20b6-535d-9974-66c55ca5acab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

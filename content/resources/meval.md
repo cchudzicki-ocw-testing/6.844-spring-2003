@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: meval.scm
 uid: 18eccb95-7a94-b4f3-93b4-80a10ca5d4f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

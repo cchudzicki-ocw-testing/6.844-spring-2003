@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: bd583dbd-6c80-e65b-19c5-6a507da5b322
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Notes 1: Proving Arithmetic Equations ({{% resource_link 7b001432-b8a5-30d1-4dbd-eff1211165ec "PDF" %}})  

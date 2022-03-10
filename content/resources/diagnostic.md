@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: diagnostic.pdf
 uid: 16bb1a9c-36df-8b04-988a-d40623cea655
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

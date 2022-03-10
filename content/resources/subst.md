@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: subst.pdf
 uid: 80772902-b9eb-cdc9-038b-e79d80028188
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

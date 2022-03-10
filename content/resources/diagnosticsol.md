@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: diagnosticsol.pdf
 uid: 39c3997d-5720-3488-f499-7041be2aa9b1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

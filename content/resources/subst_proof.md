@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: subst_proof.pdf
 uid: 766c0826-27b3-888c-7112-3f0a81f9671b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

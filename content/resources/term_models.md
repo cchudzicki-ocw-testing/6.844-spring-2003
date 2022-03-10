@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: term_models.pdf
 uid: 2d8112ce-89db-b4c2-a65b-cdc66f448c74
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

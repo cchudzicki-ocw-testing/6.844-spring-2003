@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: submodel.pdf
 uid: 02d60bb7-4e90-93dd-658b-55d6bd421f94
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

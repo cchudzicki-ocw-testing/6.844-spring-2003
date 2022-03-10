@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: comput2.pdf
 uid: a783254d-f35a-db71-0c48-318ad5eff59a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

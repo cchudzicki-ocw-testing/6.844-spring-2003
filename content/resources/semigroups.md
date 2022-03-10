@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: semigroups.pdf
 uid: 9c964077-316f-0d4b-3663-3294a1c3c214
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: aeqn.pdf
 uid: 7b001432-b8a5-30d1-4dbd-eff1211165ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

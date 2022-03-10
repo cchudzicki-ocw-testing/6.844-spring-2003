@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: computability.pdf
 uid: 60cadbac-50de-8221-1027-b50645a9f28b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

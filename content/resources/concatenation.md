@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: concatenation.pdf
 uid: e76d7d50-0a96-0f25-df43-efc39ad5e466
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

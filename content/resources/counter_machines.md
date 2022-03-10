@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: counter_machines.pdf
 uid: b3cd4c14-0068-033a-a77d-3531c35ae049
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

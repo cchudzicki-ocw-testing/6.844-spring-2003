@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: desugar.scm
 uid: feeec1a0-9b94-ab04-506b-e8098cda4278
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
